@@ -6,7 +6,7 @@
 ## Sobre mim
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas.
-- 🔭 Me interesso pelo Back-end.
+- 🔭 Desenvolvedor Back-end.
 
 ## Stacks
 
